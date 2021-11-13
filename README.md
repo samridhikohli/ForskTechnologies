@@ -1,3 +1,3 @@
-# ForskTechnologies
+# ForskTechnologies - ML
 
-Notes from classes I attended
+A hands on course on Machine Learning, this has notes from the classes I attended
